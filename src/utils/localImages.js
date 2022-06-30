@@ -1,0 +1,20 @@
+export const LocalImages = {
+  backgroundAirplane: require('../assets/images/airplane.webp'),
+  airplaneButton: require('../assets/images/plane.png'),
+  home: require('../assets/images/house.png'),
+  bookmark: require('../assets/images/saved.png'),
+
+  leftSmallArrow: require('../assets/images/leftSmallArrow.png'),
+  profileImage: require('../assets/images/profileImage.jpeg'),
+  downArrow: require('../assets/images/downArrow.png'),
+  search: require('../assets/images/search.png'),
+  reactNative: require('../assets/images/reactNative.png'),
+  bell: require('../assets/images/bell.png'),
+  graduation: require('../assets/images/graduation.png'),
+  square: require('../assets/images/square.png'),
+  checkSquare: require('../assets/images/checkSquare.png'),
+  radioOn: require('../assets/images/radioOn.png'),
+  radioOff: require('../assets/images/radioOff.png'),
+  airplane: require('../assets/images/airplane.webp'),
+  planeButton: require('../assets/images/plane.png'),
+};
